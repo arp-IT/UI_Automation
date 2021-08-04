@@ -1,0 +1,6 @@
+[TRACE] 2021-08-01 23:24:30.296 [main] Log4JDemo - This is a trace message
+[INFO ] 2021-08-01 23:24:30.299 [main] Log4JDemo - This is an Information Message
+[INFO ] 2021-08-01 23:24:30.299 [main] Log4JDemo - This is information message
+[ERROR] 2021-08-01 23:24:30.299 [main] Log4JDemo - This is an error message
+[WARN ] 2021-08-01 23:24:30.299 [main] Log4JDemo - This is a warning meassage
+[FATAL] 2021-08-01 23:24:30.299 [main] Log4JDemo - This is a fatal message
